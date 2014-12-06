@@ -1,0 +1,15 @@
+{
+    "name": "dan-d-martin/utilities",
+    "description": "General utilities bundle",
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Martin",
+            "email": "dan@dan-martin.net"
+        }
+    ],
+    "require": {}
+}
